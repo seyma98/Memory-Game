@@ -1,0 +1,11 @@
+
+This game has written by using Python3, Tkinter in Linux enviroment  
+
+HOW TO WORK THIS GAME?
+
+-When Memory Game opened,following random number appear and disapper in one second
+-You should write respectively the numbers you saw on the screen(write number int entry box click 'click' button , if the number you wrote is true,it is given "congratulation!" message,otherwise it is given "try again!" message)
+-As soon as you pass the level, game again generates new random numbers in rondom position, but at this time size is one more then the previous level. This process goes on forever.
+-Starting size is 5.  
+
+
